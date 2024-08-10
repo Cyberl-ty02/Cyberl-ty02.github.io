@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyberls-Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://cyberl-ty02.github.io/</link>
     <description>Recent content on Cyberls-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Cyberl-ty02</copyright>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberl-ty02.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一些链接</title>
-      <link>http://localhost:1313/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/</guid>
       <description>本文章将会列出一些有用的链接。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723299169938-%E4%B8%80%E4%BA%9B%E9%93%BE%E6%8E%A5/featured.png" />
     </item>
     
     <item>
       <title>你好</title>
-      <link>http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/featured.png" />
     </item>
     
   </channel>
