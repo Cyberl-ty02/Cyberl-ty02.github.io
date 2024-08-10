@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyberl-ty02.github.io/sitemap.xml
