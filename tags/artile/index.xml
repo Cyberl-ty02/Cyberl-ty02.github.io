@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</guid>
       <description>本文用于存储部分软件的配置文件</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.jpg" />
     </item>
     
   </channel>
