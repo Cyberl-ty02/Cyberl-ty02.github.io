@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artile on Cyberls-Blog</title>
-    <link>http://localhost:1313/tags/artile/</link>
+    <link>https://cyberl-ty02.github.io/tags/artile/</link>
     <description>Recent content in Artile on Cyberls-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Cyberl-ty02</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/artile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberl-ty02.github.io/tags/artile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>配置文件备份</title>
-      <link>http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</guid>
       <description>本文用于存储部分软件的配置文件</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png" />
     </item>
     
   </channel>

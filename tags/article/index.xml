@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article on Cyberls-Blog</title>
-    <link>http://localhost:1313/tags/article/</link>
+    <link>https://cyberl-ty02.github.io/tags/article/</link>
     <description>Recent content in Article on Cyberls-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Cyberl-ty02</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberl-ty02.github.io/tags/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一些网站的摘录</title>
-      <link>http://localhost:1313/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/</guid>
       <description>本文章摘录了一些可能比较有用的网站，以供安装和查询。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723354616185-%E4%B8%80%E4%BA%9B%E7%BD%91%E7%AB%99%E7%9A%84%E6%91%98%E5%BD%95/featured.png" />
     </item>
     
     <item>
       <title>关于网站的建立和添加备案(wordpress版)</title>
-      <link>http://localhost:1313/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/</guid>
       <description>注意，本网站搭建环境是基于兼容centos的linux发行版和apache、mariadb、php8搭建的，如果需要使用Debian系或其他发行版(Arch、Gentoo、FreeBSD等）请使用搜索引擎搜索相应教程，并根据该教程以及具体实际来修改安装，不可完全照抄。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723352384606-%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B%E5%92%8C%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%A1%88wordpress%E7%89%88/featured.png" />
     </item>
     
     <item>
       <title>在Gentoo中，导出已装包名单到新电脑，并依名单安装</title>
-      <link>http://localhost:1313/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/</guid>
       <description>在 Gentoo 中，world 文件包含了用户明确要安装的软件包。你可以使用 grep 命令来从 world 文件中提取软件包列表。以下是具体步骤</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723355501852-%E5%9C%A8gentoo%E4%B8%AD%E5%AF%BC%E5%87%BA%E5%B7%B2%E8%A3%85%E5%8C%85%E5%90%8D%E5%8D%95%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91%E5%B9%B6%E4%BE%9D%E5%90%8D%E5%8D%95%E5%AE%89%E8%A3%85/featured.png" />
     </item>
     
     <item>
       <title>你好</title>
-      <link>http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</link>
+      <link>https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</guid>
+      <guid>https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/</guid>
       <description>这是博客的第一篇文章。本博客将会逐步的进行完善，并迁移其他文章。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1723298779013-%E4%BD%A0%E5%A5%BD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cyberl-ty02.github.io/posts/1723298779013-%E4%BD%A0%E5%A5%BD/featured.png" />
     </item>
     
   </channel>
