@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="artile, tag, " />
   
   
-  <link rel="canonical" href="https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/" />
+  <link rel="canonical" href="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/" />
   
   
   
@@ -64,7 +64,7 @@
   
   
   
-  <meta property="og:url" content="https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/">
+  <meta property="og:url" content="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/">
   <meta property="og:site_name" content="Cyberls-Blog">
   <meta property="og:title" content="配置文件备份">
   <meta property="og:description" content="本文用于存储部分软件的配置文件">
@@ -75,11 +75,11 @@
     <meta property="article:modified_time" content="2024-08-11T00:00:00+00:00">
     <meta property="article:tag" content="Artile">
     <meta property="article:tag" content="Tag">
-    <meta property="og:image" content="https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png">
+    <meta property="og:image" content="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://cyberl-ty02.github.io/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png">
+  <meta name="twitter:image" content="http://localhost:1313/posts/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/featured.png">
   <meta name="twitter:title" content="配置文件备份">
   <meta name="twitter:description" content="本文用于存储部分软件的配置文件">
 
@@ -92,9 +92,9 @@
     "name": "配置文件备份",
     "headline": "配置文件备份",
     "description": "本文用于存储部分软件的配置文件",
-    "abstract": "本文用于存储部分软件的配置文件",
+    
     "inLanguage": "en",
-    "url" : "https:\/\/cyberl-ty02.github.io\/posts\/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD\/",
+    "url" : "http:\/\/localhost:1313\/posts\/1723356092040-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD\/",
     "author" : {
       "@type": "Person",
       "name": "Cyberl-ty02"
@@ -108,7 +108,7 @@
     "keywords": ["artile","tag"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "109"
+    "wordCount": "97"
   }]
   </script>
 
@@ -373,7 +373,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-08-11 00:00:00 &#43;0000 UTC">11 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>109 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2024-08-11 00:00:00 &#43;0000 UTC">11 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>97 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.63c8a202661f4a2063fdc2706685d668e8ea3da613da2224e9da527e5876e4f53dcac39ab60732626fb4151feae5d430d0cf44731e5d3c726522fcc1519c1547.js" integrity="sha512-Y8iiAmYfSiBj/cJwZoXWaOjqPaYT2iIk6dpSflh25PU9ysOatgcyYm&#43;0FR/q5dQw0M9Ecx5dPHJlIvzBUZwVRw=="></script>
@@ -501,13 +501,20 @@
     </span>        
     
 </h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># Do not require passwords for five minutes for all users in the wheel group</span>
-</span></span><span class="line"><span class="cl">permit persist :wheel
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># For using github</span>
+</span></span><span class="line"><span class="cl">proxy <span class="o">()</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">export</span> <span class="nv">https_proxy</span><span class="o">=</span><span class="s2">&#34;http://127.0.0.1:2080&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">export</span> <span class="nv">http_proxy</span><span class="o">=</span><span class="s2">&#34;http://127.0.0.1:2080&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">export</span> <span class="nv">all_proxy</span><span class="o">=</span><span class="s2">&#34;sock5://127.0.0.1:2080&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">echo</span> <span class="s2">&#34;HTTP Proxy on: 127.0.0.1&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="c1"># Allow a user to use the reboot command without a password</span>
-</span></span><span class="line"><span class="cl">permit nopass kl cmd reboot
-</span></span><span class="line"><span class="cl">permit nopass kl cmd shutdown
-</span></span><span class="line"><span class="cl">permit nopass kl cmd eix-sync
+</span></span><span class="line"><span class="cl">nproxy <span class="o">()</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">unset</span> http_proxy
+</span></span><span class="line"><span class="cl">    <span class="nb">unset</span> https_proxy
+</span></span><span class="line"><span class="cl">    <span class="nb">unset</span> all_proxy
+</span></span><span class="line"><span class="cl">    <span class="nb">echo</span> <span class="s2">&#34;HTTP Proxy off&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
 </span></span></code></pre></div>
           
           
@@ -661,7 +668,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://cyberl-ty02.github.io/"
+  data-url="http://localhost:1313/"
   style="z-index:500"
 >
   <div
