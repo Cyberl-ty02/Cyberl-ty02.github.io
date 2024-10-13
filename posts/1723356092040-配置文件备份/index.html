@@ -610,6 +610,34 @@
 
 
     
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        <head>
+    
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+    />
+    
+  </head>
+  <body>
+    
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+      init({
+        el: '#waline',
+        serverURL: 'https://www.hatsunemiku.club',
+      });
+    </script>
+  </body>
+      </div>
+    </div>
+    
+    
   </footer>
 </article>
 
