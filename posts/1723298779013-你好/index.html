@@ -455,8 +455,8 @@
         <div class="article-content max-w-prose mb-20">
           <p>这是博客的第一篇文章。本博客将会逐步的进行完善，并迁移其他文章。</p>
 <p>博客的搭建参考了：<a href="https://github.com/miawithcode/blog/blob/main/cuttontail/content/blog/202208%20create-a-wesite-using-github-pages-and-hugo/index.md" target="_blank">如何用 GitHub Pages + Hugo 搭建个人博客</a>（<a href="https://github.com/miawithcode" target="_blank">cuttontail</a>）</p>
-<p>使用了<a href="https://blowfish.page/" target="_blank">Blowfish</a>主题</p>
-<p>使用VScode作为默认编辑器</p>
+<p>使用了<a href="https://blowfish.page/" target="_blank">Blowfish</a>主题，启用<a href="https://waline.js.org/" target="_blank">Waline</a>作为评论插件（部署在<a href="https://vercel.com/" target="_blank">Vercel</a>上）。</p>
+<p>使用VScode作为默认的博客编辑器。</p>
 
           
           
@@ -552,7 +552,7 @@
 
       init({
         el: '#waline',
-        serverURL: 'https://www.hatsunemiku.club',
+        serverURL: 'walinecomment-eight.vercel.app',
       });
     </script>
   </body>
